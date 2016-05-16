@@ -1,5 +1,9 @@
 # README
 
+# Requirements:
+
+1. `pip install pillow`
+
 # How to use Font Awesome to PNG
 
 Examples
