@@ -19,6 +19,11 @@ python ./font-awesome-to-png.py --font Font-Awesome-4.5.0/fonts/FontAwesome.otf 
 Export All
 
 ```bash
+# With Default sizes
+python ./font-awesome-to-png.py --font Font-Awesome-4.5.0/fonts/FontAwesome.otf
+ALL
+
+# With 100x100 sizes
 python ./font-awesome-to-png.py --font Font-Awesome-4.5.0/fonts/FontAwesome.otf
 ALL
 mkdir outputs
